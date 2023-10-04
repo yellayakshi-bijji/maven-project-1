@@ -5,10 +5,8 @@
     <groupId>com.1</groupId>
     <!-- unique name of a particular project, module, or artifact within a group -->
     <artifactId>maven-project-1</artifactId>
-    <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>maven-project-1</name>
-    <url>https://maven.apache.org</url>
 
 
     <properties>
