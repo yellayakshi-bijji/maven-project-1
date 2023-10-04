@@ -4,7 +4,7 @@
     <!-- identifies the group or organization that owns or maintains a project or dependency -->
     <groupId>com.1</groupId>
     <!-- unique name of a particular project, module, or artifact within a group -->
-    <artifactoryId>maven-project-1</artifactoryId>
+    <artifactId>maven-project-1</artifactId>
     <packaging>jar</packaging>
     <version>1.0-SNAPSHOT</version>
     <name>maven-project-1</name>
